@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @copsfuraxx
 - 👀 I’m interested in creating video game
 - 🌱 I'm currently doing a master's degree in computer science
-- 📫 How to reach me
