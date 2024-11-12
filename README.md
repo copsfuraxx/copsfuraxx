@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @copsfuraxx
-- 👀 I’m interested in creating video game
-- 🌱 I'm currently doing a master's degree in computer science
+- 👀 I’m interested in creating video game https://copsfuraxx.itch.io/
